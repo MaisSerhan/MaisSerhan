@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mais Sarhan</h1>
-<h3 align="center">🌱 I’m currently learning</h3>
+# Mais Sarhan  ⚛
+<img src="./static/photo/shorticon.png" width="400px">
+
+# Overview 🚀🇵🇸
+
+Welcome to my portfolio! This repository showcases my projects, skills, and experience in data science, AI, machine learning, and web development. It includes various projects that demonstrate my expertise in data analysis, predictive modeling, and software development.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maisserhan&label=Profile%20views&color=0e75b6&style=flat" alt="maisserhan" /> </p>
 
