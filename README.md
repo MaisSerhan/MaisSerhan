@@ -8,15 +8,15 @@ Welcome to my portfolio! This repository showcases my projects, skills, and expe
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maisserhan&label=Profile%20views&color=0e75b6&style=flat" alt="maisserhan" /> </p>
 
-- 🔭 I’m currently working on [Haven](https://github.com/MaisSerhan/Haven)
-
 - 🌱 I’m currently learning **Computer Systems Engineer**
+
+- 👨‍💻 All of my projects are available at [ ‏Mais Portfolio ](https://mais-sarhan.vercel.app/)
+
+- 🔭 I’m currently working on [Haven](https://github.com/MaisSerhan/Haven)
 
 - 👯 I’m looking to collaborate on [GigiBoutque](https://github.com/MaisSerhan/GigiBoutque)
 
-- 👨‍💻 All of my projects are available at [https://mais-sarhan.vercel.app/](https://mais-sarhan.vercel.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@maisserhan09](https://medium.com/@maisserhan09)
+- 📝 I regularly write articles on [medium](https://medium.com/@maisserhan09)
 
 - 📫 How to reach me **maisserhan09@gmail.com**
 
