@@ -1,5 +1,5 @@
 # Mais Sarhan  ⚛
-<img src="https://github.com/MaisSerhan/MaisSarhan/blob/main/static/photo/shorticon.png?raw=true" width="400px">
+<img src="https://github.com/MaisSerhan/MaisSarhan/blob/main/static/photo/shorticon.png?raw=true" width="40px">
 
 # Overview 🚀🇵🇸
 
