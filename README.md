@@ -16,7 +16,7 @@ Welcome to my portfolio! This repository showcases my projects, skills, and expe
 
 - 👯 I’m looking to collaborate on [GigiBoutque](https://github.com/MaisSerhan/GigiBoutque)
 
-- 📝 I regularly write articles on [medium](https://medium.com/@maisserhan09)
+- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/mais-anwer/) [medium](https://medium.com/@maisserhan09)  
 
 - 📫 How to reach me **maisserhan09@gmail.com**
 
