@@ -12,11 +12,11 @@ Welcome to my portfolio! This repository showcases my projects, skills, and expe
 
 - 👨‍💻 All of my projects are available at [ ‏Mais Portfolio ](https://mais-sarhan.vercel.app/)
 
+- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/mais-anwer/)    ,  [medium](https://medium.com/@maisserhan09)  
+
 - 🔭 I’m currently working on [Haven](https://github.com/MaisSerhan/Haven)
 
-- 👯 I’m looking to collaborate on [GigiBoutque](https://github.com/MaisSerhan/GigiBoutque)
-
-- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/mais-anwer/)    ,  [medium](https://medium.com/@maisserhan09)  
+- 👯 I collaborated to [GigiBoutque](https://github.com/MaisSerhan/GigiBoutque)
 
 - 📫 How to reach me **maisserhan09@gmail.com**
 
