@@ -18,13 +18,9 @@ Welcome to my portfolio! This repository showcases my projects, skills, and expe
 
 - 📝 I regularly write articles on [https://medium.com/@maisserhan09](https://medium.com/@maisserhan09)
 
-- 💬 Ask me about **Js, Software, AI, Front-end, back-end, Java**
-
 - 📫 How to reach me **maisserhan09@gmail.com**
 
-- 📄 Know about my experiences [chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://mais-sarhan.vercel.app/resumy/Mais%20Sarhan%20-%20Resume.pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://mais-sarhan.vercel.app/resumy/Mais%20Sarhan%20-%20Resume.pdf)
-
-- ⚡ Fun fact **Have a nice day**
+-  **Have a nice day 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
