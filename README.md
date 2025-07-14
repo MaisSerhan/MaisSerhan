@@ -12,7 +12,7 @@ Welcome to my portfolio! This repository showcases my projects, skills, and expe
 
 - 👨‍💻 All of my projects are available at [ ‏Mais Portfolio ](https://mais-sarhan.vercel.app/)
 
-- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/mais-anwer/)    ,  [medium](https://medium.com/@maisserhan09)  
+- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/mais-sarhan/)    ,  [medium](https://medium.com/@maisserhan09)  
 
 - 🔭 I’m currently working on [Haven](https://github.com/MaisSerhan/Haven_FBAI)
 
